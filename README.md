@@ -104,97 +104,62 @@ https://github.com/user-attachments/assets/7d4ed95a-f5fc-4ebe-aa60-3811db837478
 
 **ㄱ. 씬 번호 / 씬 길이(초) :** Scene 3 / 4초
 
-**ㄴ. 목표 메시지(한 문장)** 실천을 통해 얻는 몸과 마음의 상쾌한 에너지를 시청자가 직접 느끼게 한다.\*\*
+**ㄴ. 목표 메시지(한 문장)**작은 실천이 모여 몸과 마음이 깨어나는 상쾌한 에너지를 경험한다.
 
-\## ㄷ. 화면 구성
+**ㄷ. 화면 구성(구도/피사체/배경/텍스트 유무)**
 
-| 항목 | 내용 |
+**구도:** 미디엄 트래킹 숏 (Medium Tracking Shot, 인물의 속도에 맞춰 함께 이동)
 
-|------|------|
+**피사체:** 가볍게 조깅하며 상쾌하게 웃고 있는 인물의 상반신
 
-| \*\*구도\*\* | 아이레벨 트래킹 숏 (Eye-level Tracking Shot) |
+**배경:** 아침 햇살이 나뭇잎 사이로 쏟아지는(Lens Flare) 푸른 공원 산책로
 
-| \*\*피사체\*\* | 공원 벤치에 앉아 눈을 감고 기분 좋게 심호흡하며 미소 짓는 인물의 상반신 |
+**텍스트 유무:** 텍스트 없음 (인물의 표정과 역동적인 움직임에 집중)
 
-| \*\*배경\*\* | Scene 2의 새벽 안개가 완전히 걷히고, 나뭇잎 사이로 아침 햇살(Lens Flare)이 쏟아지는 초록빛 공원 |
+**ㄹ. 내레이션(또는 화면 카피) : (효과음 외 목소리 없음)
 
-| \*\*텍스트 유무\*\* | ❌ 텍스트 없음 (인물의 표정과 자연광에 집중) |
+**ㅁ. 사용 도구(이미지/비디오/오디오)와 사용 목적**
 
-\## ㄹ. 내레이션 (또는 화면 카피)
+**비디오 (Runway Gen-2 또는 Pika):** 인물의 자연스러운 달리기 동작과 햇살의 질감을 생생하게 구현하기 위함.
 
-💬 (내레이션 - 차분하고 따뜻한 여성 목소리)
+**오디오 (BGM & SFX):** 경쾌한 어쿠스틱 기타 선율과 함께 아주 작게 들리는 새소리, 발자국 소리를 삽입하여 현장감 극대화.
 
-"가벼워진 몸, 맑아진 마음.
+**ㅂ. 입력 프롬프트(원문) + 출력 결과 요약(한 줄)**
 
-오늘 하루도 당신답게."
+**입력 프롬프트:** "Cinematic medium tracking shot of a person jogging in a sun-drenched park, morning lens flare, vibrant green leaves, happy expression, 4k, high resolution, highly detailed skin texture."
 
-\> 🎯 \*\*연출 포인트:\*\* 내레이션이 끝나는 타이밍에 맞춰 인물이 천천히 눈을 뜨며 미소 짓는 장면으로 마무리 → Scene 4 엔딩으로 자연스럽게 전환
+**출력 결과 요약:** 햇살을 받으며 달리는 인물의 활기찬 모습이 부드러운 카메라 워킹으로 담김.
 
-\## ㅁ. 사용 도구와 사용 목적
+**ㅅ. 생성 결과 파일명 또는 링크 표기**Campaign_Scene_2_5_Vitality_Final.mp4
 
-| 구분 | 도구 | 사용 목적 |
+**💡 프롬프트 수정 기록 (권장 사항)**
 
-|------|------|-----------|
+이 씬의 퀄리티를 높이기 위해 다음과 같이 프롬프트를 수정했습니다.
 
-| \*\*비디오\*\* | Runway Gen-2 | 인물의 자연스러운 심호흡 동작과 햇살 Lens Flare 효과 구현 |
+**수정 전 (Initial Prompt):**
 
-| \*\*이미지\*\* | Midjourney | 배경 공원 장면의 레퍼런스 이미지 생성 (비디오 생성 전 구도 확인용) |
+"A person running in the park in the morning."
 
-| \*\*오디오\*\* | Suno AI | 잔잔한 어쿠스틱 BGM 생성 (새소리 + 바람 소리 자연음 믹싱) |
+**수정 후 (Revised Prompt):**
 
-\## ㅂ. 입력 프롬프트 + 출력 결과 요약
+"Cinematic **medium tracking shot** of a person jogging in a **sun-drenched** park, **morning lens flare**, vibrant green leaves, **happy expression**, 4k, high resolution, highly detailed skin texture."
 
-\### ✅ 최종 사용 프롬프트 (수정 후)
+**수정 이유:**
 
-Cinematic eye-level tracking shot, a young woman sitting 
+**구도 명시:** 단순히 'running'이라고 하면 인물이 멀리 보일 수 있어, 인물의 표정을 관찰할 수 있는 \*\*'Medium tracking shot'\*\*을 추가했습니다.
 
-on a park bench, eyes closed, smiling peacefully, 
+**빛의 연출:** 'Morning'이라는 단어만으로는 부족하여, 따뜻하고 희망찬 분위기를 주는 \*\*'Sun-drenched'\*\*와 **'Lens flare'** 효과를 더했습니다.
 
-taking a deep breath, soft morning sunlight filtering 
+**감정 표현:** 브랜드의 긍정적인 이미지를 위해 인물의 상태를 \*\*'Happy expression'\*\*으로 구체화했습니다.
 
-through green leaves, warm lens flare, bokeh background, 
 
-natural and refreshing atmosphere, 4K, high resolution
 
-\> \*\*📋 출력 결과 요약:\*\*
+https://github.com/user-attachments/assets/eb849386-560e-4320-ac12-9f110b7c95a4
 
-\> 벤치에 앉아 평화롭게 심호흡하는 인물 주변으로 따뜻한 햇살과 보케 효과가 어우러진 생동감 있는 장면 생성됨.
 
-\## ★ 프롬프트 수정 전 / 후 기록
 
-\### 🔴 수정 전 (Initial Prompt)
+🎬 Scene 4 : 캠페인 엔딩
 
-A woman resting in the park in the morning.
-
-\> \*\*출력 결과:\*\* 인물이 너무 멀리 배치되고, 전체적으로 평범한 공원 풍경 사진처럼 출력됨. 감정 전달 부족.
-
-\## 🟢 수정 후 (Revised Prompt)
-
-Cinematic eye-level tracking shot, a young woman sitting 
-
-on a park bench, eyes closed, smiling peacefully, 
-
-taking a deep breath, soft morning sunlight filtering 
-
-through green leaves, warm lens flare, bokeh background, 
-
-natural and refreshing atmosphere, 4K, high resolution
-
-\> \*\*출력 결과:\*\* 인물의 표정과 햇살이 감성적으로 어우러진 장면 생성됨. 브랜드 분위기와 일치.
-
-\### 📝 수정 이유 정리
-
-| 수정 항목 | 수정 전 | 수정 후 | 수정 이유 |
-
-|-----------|---------|---------|-----------|
-
-| \*\*구도 명시\*\* | 없음 | Eye-level tracking shot | 인물 중심 감정 전달을 위해 구도 구체화 |
-
-| \*\*감정 표현\*\* | resting | eyes closed, smiling peacefully | 단순 휴식이 아닌 '상쾌함'의 감정 명확히 전달 |
-
-| \*\*빛 연출\*\* | morning | soft morning sunlight, warm lens flare | Scene 3 파스텔 그린과 자연스러운 색감 연결 |
-
-| \*\*화질/분위기\*\* | 없음 | bokeh, 4K, high resolution | 광고 영상 수준의 품질 확보 |
 
 🎬 Scene 4 : 캠페인 엔딩
 
@@ -226,7 +191,6 @@ natural and refreshing atmosphere, 4K, high resolution
 
 출력 결과 요약: 깔끔한 그린 배경 위에 화이트 톤의 브랜드 카피가 정갈하게 연출되는 엔딩 시퀀스 완성.
 
-ㅅ. 생성 결과 파일명: VitaRoutine_Campaign_Scene03.mp4
 
 4\. 사용 도구 목록 (AI Tool Stack)
 
@@ -241,4 +205,13 @@ natural and refreshing atmosphere, 4K, high resolution
 오디오 및 종합 편집: Vrew (브루)
 
 사용 목적: AI 내레이션 보이스 생성, 각 씬에 맞는 효과음(SFX) 및 배경음악(BGM) 매칭, 텍스트 자막 삽입 및 최종 컷 편집
+
+
+
+
+https://github.com/user-attachments/assets/92f0fa44-5348-4b00-8604-2c45e6fb88c0
+
+
+
+
 
