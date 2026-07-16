@@ -84,7 +84,6 @@ https://github.com/user-attachments/assets/47be848d-eeee-49d1-99c6-ba9eecf19f5e
 
 출력 결과 요약: 아침 햇살 속에서 차분하게 운동화 끈을 매고 나설 준비를 하는 역동적이고 감성적인 4초 비디오 생성 성공.
 
-ㅅ. 생성 결과 파일명: VitaRoutine_Campaign_Scene02_Final.mp4
 
 💡 \[추가 권장 요건\] 프롬프트 수정 프로세스 (Scene 2)
 
@@ -130,7 +129,6 @@ https://github.com/user-attachments/assets/7d4ed95a-f5fc-4ebe-aa60-3811db837478
 
 **출력 결과 요약:** 햇살을 받으며 달리는 인물의 활기찬 모습이 부드러운 카메라 워킹으로 담김.
 
-**ㅅ. 생성 결과 파일명 또는 링크 표기**Campaign_Scene_2_5_Vitality_Final.mp4
 
 **💡 프롬프트 수정 기록 (권장 사항)**
 
@@ -160,10 +158,7 @@ https://github.com/user-attachments/assets/eb849386-560e-4320-ac12-9f110b7c95a4
 
 🎬 Scene 4 : 캠페인 엔딩
 
-
-🎬 Scene 4 : 캠페인 엔딩
-
-ㄱ. 씬 번호 / 씬 길이: Scene #3 / 5초
+ㄱ. 씬 번호 / 씬 길이: Scene #4 / 3초
 
 ㄴ. 목표 메시지: 시청자에게 브랜드 각인 및 행동 촉구(Call to Action).
 
@@ -177,7 +172,7 @@ https://github.com/user-attachments/assets/eb849386-560e-4320-ac12-9f110b7c95a4
 
 텍스트 유무: 텍스트 있음 (화면 중앙에 로고와 카피 배치)
 
-ㄹ. 내레이션: "작은 습관이 모여, 내일의 당신을 바꿉니다. 지금 시작하세요. 비타루틴."
+ㄹ. 내레이션: (효과음 외 목소리 없음)
 
 ㅁ. 사용 도구 및 목적:
 
