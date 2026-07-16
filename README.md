@@ -20,7 +20,7 @@
 
 🎬 Scene 1: 시작의 순간
 
-ㄱ. 씬 번호 / 씬 길이: Scene #1 / 5초
+ㄱ. 씬 번호 / 씬 길이: Scene #1 / 4초
 
 ㄴ. 목표 메시지: 건강한 하루의 시작은 맑은 물 한 잔으로부터 시작된다.
 
@@ -46,13 +46,17 @@
 
 입력 프롬프트: A close-up shot of a transparent glass being filled with fresh, sparkling mineral water. Sunlight streams through a clean kitchen window, creating beautiful lens flares and water ripples. Cinematic lighting, slow motion, 4k resolution.
 
-출력 결과 요약: 아침 햇살을 받아 반짝이는 유리잔에 물이 쏟아지며 싱그러운 파동을 만들어내는 5초 비디오 생성 성공.
+출력 결과 요약: 아침 햇살을 받아 반짝이는 유리잔에 물이 쏟아지며 싱그러운 파동을 만들어내는 4초 비디오 생성 성공.
 
-ㅅ. 생성 결과 파일명: VitaRoutine_Campaign_Scene01.mp4
+
+
+https://github.com/user-attachments/assets/47be848d-eeee-49d1-99c6-ba9eecf19f5e
+
+
 
 🎬 Scene 2: 행동의 시작 (★ 프롬프트 수정 전/후 기록 씬)
 
-ㄱ. 씬 번호 / 씬 길이: Scene #2 / 5초
+ㄱ. 씬 번호 / 씬 길이: Scene #2 / 4초
 
 ㄴ. 목표 메시지: 문 밖을 나서는 작은 실천이 건강한 몸을 만든다.
 
@@ -66,7 +70,7 @@
 
 텍스트 유무: 텍스트 없음 (인물의 행동에 집중)
 
-ㄹ. 내레이션: "거창하지 않아도 좋습니다. 가볍게 끈을 묶는 것부터."
+ㄹ. 내레이션: (효과음 외 목소리 없음)
 
 ㅁ. 사용 도구 및 목적:
 
@@ -78,7 +82,7 @@
 
 최종 입력 프롬프트: Side view, low angle shot of a person tying the laces of bright running shoes on a wooden porch. In the background, a soft morning mist covers a green park with dew on the grass. Golden hour morning light, shallow depth of field, realistic textures.
 
-출력 결과 요약: 아침 햇살 속에서 차분하게 운동화 끈을 매고 나설 준비를 하는 역동적이고 감성적인 5초 비디오 생성 성공.
+출력 결과 요약: 아침 햇살 속에서 차분하게 운동화 끈을 매고 나설 준비를 하는 역동적이고 감성적인 4초 비디오 생성 성공.
 
 ㅅ. 생성 결과 파일명: VitaRoutine_Campaign_Scene02_Final.mp4
 
@@ -90,9 +94,15 @@
 
 수정 이유: 수정 전 프롬프트는 구도(Low angle)와 조명(Golden hour)에 대한 지시가 없어 AI가 너무 평범하고 정적인 인물 사진처럼 영상을 출력함. 시네마틱한 캠페인 분위기를 살리기 위해 카메라 앵글, 아침 안개라는 배경 디테일, 빛의 종류를 구체적으로 추가하여 영상의 영상미와 입체감을 대폭 향상시킴.
 
+
+
+https://github.com/user-attachments/assets/7d4ed95a-f5fc-4ebe-aa60-3811db837478
+
+
+
 🎬 Scene 3 : **활력의 정점 (The Peak of Vitality)**
 
-**ㄱ. 씬 번호 / 씬 길이(초) :** Scene #2.5 / 5초
+**ㄱ. 씬 번호 / 씬 길이(초) :** Scene 3 / 4초
 
 **ㄴ. 목표 메시지(한 문장)** 실천을 통해 얻는 몸과 마음의 상쾌한 에너지를 시청자가 직접 느끼게 한다.\*\*
 
@@ -118,7 +128,7 @@
 
 오늘 하루도 당신답게."
 
-\> 🎯 \*\*연출 포인트:\*\* 내레이션이 끝나는 타이밍에 맞춰 인물이 천천히 눈을 뜨며 미소 짓는 장면으로 마무리 → Scene 3 엔딩으로 자연스럽게 전환
+\> 🎯 \*\*연출 포인트:\*\* 내레이션이 끝나는 타이밍에 맞춰 인물이 천천히 눈을 뜨며 미소 짓는 장면으로 마무리 → Scene 4 엔딩으로 자연스럽게 전환
 
 \## ㅁ. 사용 도구와 사용 목적
 
