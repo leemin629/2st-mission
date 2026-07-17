@@ -85,7 +85,7 @@
 
 ㅇ. 생성 결과 파일명 : 아침에 맑은 물 한잔 영상.mp4
 
-
+https://github.com/user-attachments/assets/81520a9c-7917-469b-a753-80aea1125e09
 
 ### 🎬 Scene 2: 행동의 시작  
 
@@ -114,6 +114,10 @@
 ㅇ. 생성 결과 파일명 : 신발끈 묶고 운동 준비 영상.mp4
 
 
+
+https://github.com/user-attachments/assets/d36083c0-a409-435b-9131-277ce477c615
+
+
 ### 🎬 Scene 3: 활력의 정점 (★ 프롬프트 수정 전/후 기록 씬)  
 
 ㄱ. 씬 번호 / 씬 길이(초) : Scene #3 / 4초  
@@ -137,7 +141,13 @@
 
 ㅅ. 출력 결과 요약: 햇살을 받으며 달리는 인물의 활기찬 모습이 부드러운 카메라 워킹으로 담김.  
 
-ㅇ. 생성 결과 파일명 : 아침에 러닝하는 남자(수정 전).mp4
+ㅇ. 생성 결과 파일명 : 아침에 러닝하는 남자(수정 전).mp4  
+
+
+
+https://github.com/user-attachments/assets/95250513-1e8d-476c-8152-42080d95cfd1
+
+
 💡 프롬프트 수정 기록 (권장 사항)  
 
 이 씬의 퀄리티를 높이기 위해 다음과 같이 프롬프트를 수정했습니다.  
@@ -152,31 +162,68 @@
           • 빛의 연출: 'Morning'이라는 단어만으로는 부족하여, 따뜻하고 희망찬 분위기를 주는 **'Sun-drenched'**와 'Lens flare' 효과를 더했습니다.  
                • 감정 표현: 브랜드의 긍정적인 이미지를 위해 인물의 상태를 **'Happy expression'**으로 구체화했습니다.  
 
-ㅈ. 최종 생성 결과 파일명 : 아침에 러닝하는 여자.mp4               
-
-### 🎬 Scene 4 : 캠페인 엔딩
-ㄱ. 씬 번호 / 씬 길이: Scene #4 / 3초
-ㄴ. 목표 메시지: 시청자에게 브랜드 각인 및 행동 촉구(Call to Action).
-ㄷ. 화면 구성:
-구도: 센터 정렬 미니멀리즘 구도 (Minimalist Center Composition)
-피사체: 화면 중앙에 부드럽게 나타나는 화이트 모션 타이포그래피
-배경: 브랜드 컬러인 깨끗하고 편안한 파스텔 그린 단색 배경
-텍스트 유무: 텍스트 있음 (화면 중앙에 로고와 카피 배치)
-ㄹ. 내레이션: " Healthy Habits, Better Tomorrow "
-ㅁ. 사용 도구 및 목적:
-비디오/모션 그래픽 (Google Veo 3.1 Fast): 브랜드 메시지를 명확하게 전달하기 위한 깔끔한 페이드인 자막 연출용
-오디오 (Google Veo 3.1 Fast): 신뢰감을 주는 중저음의 AI 남성 내레이션 목소리 생성 및 엔딩용 피아노 잔향음 합성
-ㅂ. 입력 프롬프트 및 결과 요약:
-입력 프롬프트: A clean, minimalist pastel green solid background. A simple, modern white typography animation fades in smoothly at the center of the screen, text saying "Healthy Habits, Better Tomorrow." Elegant and professional motion graphics.
-출력 결과 요약: 깔끔한 그린 배경 위에 화이트 톤의 브랜드 카피가 정갈하게 연출되는 엔딩 시퀀스 완성.
+ㅈ. 최종 생성 결과 파일명 : 아침에 러닝하는 여자.mp4  
 
 
-## 4. 사용 도구 목록 (AI Tool Stack)
-기획 및 스토리보드 구성 : Gemini 3, Claude
-사용 목적: 캠페인 전략 수립, 씬별 메시지 도출, 이미지/비디오 생성용 영문 프롬프트 엔지니어링
-비디오(영상) 및 오디오 소스 생성: OpenAI Sora 2, Google Veo 3.1 Fast
-사용 목적: 텍스트 프롬프트를 기반으로 실사에 가까운 고화질(4K) 시네마틱 영상 클립 생성
-종합 편집: CapCut
-사용 목적: AI 내레이션 보이스 생성, 각 씬에 맞는 효과음(SFX) 및 배경음악(BGM) 매칭, 텍스트 자막 삽입 및 최종 컷 편집
+
+https://github.com/user-attachments/assets/0533e0da-c315-47c0-b234-c6a7952261ee
+
+
+
+### 🎬 Scene 4 : 캠페인 엔딩  
+
+ㄱ. 씬 번호 / 씬 길이: Scene #4 / 3초  
+
+ㄴ. 목표 메시지: 시청자에게 브랜드 각인 및 행동 촉구(Call to Action).  
+
+ㄷ. 화면 구성:  
+     • 구도: 센터 정렬 미니멀리즘 구도 (Minimalist Center Composition)  
+          • 피사체: 화면 중앙에 부드럽게 나타나는 화이트 모션 타이포그래피  
+               • 배경: 브랜드 컬러인 깨끗하고 편안한 파스텔 그린 단색 배경  
+                    • 텍스트 유무: 텍스트 있음 (화면 중앙에 로고와 카피 배치)  
+                    
+ㄹ. 내레이션: " Healthy Habits, Better Tomorrow "  
+
+ㅁ. 사용 도구 및 목적  
+비디오/모션 그래픽 (Google Veo 3.1 Fast): 브랜드 메시지를 명확하게 전달하기 위한 깔끔한 페이드인 자막 연출용  
+오디오 (Google Veo 3.1 Fast): 신뢰감을 주는 중저음의 AI 남성 내레이션 목소리 생성 및 엔딩용 피아노 잔향음 합성  
+
+ㅂ. 입력 프롬프트 및 결과 요약  
+입력 프롬프트: A clean, minimalist pastel green solid background. A simple, modern white typography animation fades in smoothly at the center of the screen, text saying "Healthy Habits, Better Tomorrow." Elegant and professional motion graphics.  
+
+ㅅ. 출력 결과 요약: 깔끔한 그린 배경 위에 화이트 톤의 브랜드 카피가 정갈하게 연출되는 엔딩 시퀀스 완성.  
+
+ㅇ. 최종 생성 결과 파일명 : 엔딩 문구 영상.mp4  
+
+
+
+
+https://github.com/user-attachments/assets/506d7ba1-7e48-45a7-a1c4-c9a6774b12c3
+
+
+
+
+## 4. 사용 도구 목록 (AI Tool Stack)  
+
+     • 기획 및 스토리보드 구성 : Gemini 3, Claude  
+          • 사용 목적: 캠페인 전략 수립, 씬별 메시지 도출, 이미지/비디오 생성용 영문 프롬프트 엔지니어링  
+               • 비디오(영상) 및 오디오 소스 생성: OpenAI Sora 2, Google Veo 3.1 Fast  
+                    • 사용 목적: 텍스트 프롬프트를 기반으로 실사에 가까운 고화질(4K) 시네마틱 영상 클립 생성  
+                         • 종합 편집: CapCut  
+                              • 사용 목적: AI 내레이션 보이스 생성, 각 씬에 맞는 효과음(SFX) 및 배경음악(BGM) 매칭, 텍스트 자막 삽입 및 최종 컷 편집  
+
+
+## 최종 결과 영상
+
+
+https://github.com/user-attachments/assets/f6f9263e-a6bb-40a9-a2d7-30b0acc38220
+                              
+
+## 보너스 영상  
+
+
+
+
+https://github.com/user-attachments/assets/37c64192-f9f1-42ea-8e0a-683ff341021e
 
 
