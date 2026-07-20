@@ -205,7 +205,7 @@ https://github.com/user-attachments/assets/506d7ba1-7e48-45a7-a1c4-c9a6774b12c3
 
 ## 4. 사용 도구 목록 (AI Tool Stack)  
 
-     • 기획 및 스토리보드 구성 : Gemini 3, Claude  
+    • 기획 및 스토리보드 구성 : Gemini 3, Claude  
           • 사용 목적: 캠페인 전략 수립, 씬별 메시지 도출, 이미지/비디오 생성용 영문 프롬프트 엔지니어링  
                • 비디오(영상) 및 오디오 소스 생성: OpenAI Sora 2, Google Veo 3.1 Fast  
                     • 사용 목적: 텍스트 프롬프트를 기반으로 실사에 가까운 고화질(4K) 시네마틱 영상 클립 생성  
@@ -214,6 +214,12 @@ https://github.com/user-attachments/assets/506d7ba1-7e48-45a7-a1c4-c9a6774b12c3
 
 
 ## 최종 결과 영상
+
+
+ • 해상도: 1080p  
+  • 프레임레이트: 24~30fps  
+   • 비디오 코덱: H.264  
+    • 오디오 코덱: AAC
 
 
 https://github.com/user-attachments/assets/f6f9263e-a6bb-40a9-a2d7-30b0acc38220
